@@ -33,3 +33,11 @@ npm i -g @hyron/cli
 hyron start
 ```
 
+### **Result**
+```
+http://localhost:3000/demo/say-hello?yourName=world
+```
+
+```
+http://localhost:3000/demo/say-hello-json?yourName=world
+```
